@@ -36,4 +36,4 @@ Because this project involves **kernel‑mode behavior and driver concepts**, al
 
 ## 👤 About
 
-Maintained by **Your Name** – focused on security research, kernel internals, and offensive tooling.
+Maintained by **taz** – focused on security research, kernel internals, and offensive tooling.
